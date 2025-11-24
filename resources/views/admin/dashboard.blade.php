@@ -1,3 +1,3 @@
 <x-admin-layout>
-  Hola desde el dashboard del administrador
+  Bienvenido al panel del TecSoftware
 </x-admin-layout>
